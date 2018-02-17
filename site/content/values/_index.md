@@ -21,13 +21,6 @@ values:
       ac turpis egestas. Aenean at augue vitae nibh rutrum sagittis. Etiam
       lacinia enim sit amet sem ultricies, quis pulvinar massa dignissim. Nam id
       varius dolor. Cras ullamcorper nisl et dui tristique sodales.
-  - heading: Single origin
-    imageUrl: /img/about-single-origin.jpg
-    text: >
-      Single-origin coffee is coffee grown within a single known geographic
-      origin. Sometimes, this is a single farm or a specific collection of beans
-      from a single country. The name of the coffee is then usually the place it
-      was grown to whatever degree available.
   - heading: Sustainable farming
     imageUrl: /img/about-sustainable-farming.jpg
     text: >
